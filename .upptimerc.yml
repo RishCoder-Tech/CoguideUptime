@@ -5,7 +5,7 @@ repo: CoguideUptime
 sites:
   - name: Coguide
     url: https://coguide.ai
-    - name: Coguide Backend
+  - name: Coguide Backend
     url: https://login.coguide.ai
   
 status-website:
