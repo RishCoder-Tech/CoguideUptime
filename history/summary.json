@@ -22,20 +22,20 @@
     "url": "https://login.coguide.ai",
     "icon": "https://icons.duckduckgo.com/ip3/login.coguide.ai.ico",
     "slug": "coguide-backend",
-    "status": "up",
-    "uptime": "66.31%",
-    "uptimeDay": "66.31%",
-    "uptimeWeek": "66.31%",
-    "uptimeMonth": "66.31%",
-    "uptimeYear": "66.31%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "status": "down",
+    "uptime": "94.62%",
+    "uptimeDay": "94.62%",
+    "uptimeWeek": "94.62%",
+    "uptimeMonth": "94.62%",
+    "uptimeYear": "94.62%",
+    "time": 353,
+    "timeDay": 353,
+    "timeWeek": 353,
+    "timeMonth": 353,
+    "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-01-04": 64,
-      "2025-01-03": 100
+      "2025-01-04": 0,
+      "2025-01-03": 38
     }
   }
 ]
