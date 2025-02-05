@@ -1,7 +1,7 @@
 url: https://login.coguide.ai
-status: down
-code: 503
-responseTime: 262
-lastUpdated: 2025-02-05T23:20:41.500Z
+status: up
+code: 200
+responseTime: 223
+lastUpdated: 2025-02-05T23:34:24.150Z
 startTime: 2025-01-03T16:55:42.898Z
 generator: Upptime <https://github.com/upptime/upptime>
